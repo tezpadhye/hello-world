@@ -1,2 +1,2 @@
 # hello-world
-A hello world repository.
+Hello Humans! Hello World!
